@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "run_id": "h3",
+  "output": "output/h3",
+  "synthetic_seed": 20261021,
+  "primary_n": 379,
+  "primary_mothers": 274,
+  "sensitivity_n": 529,
+  "sensitivity_mothers": 366,
+  "shared_n": 355,
+  "shared_mothers": 254,
+  "link_sensitivity_n": 362,
+  "link_sensitivity_mothers": 261,
+  "alpha": 0.05,
+  "optimizer_maxit": 1500,
+  "optimizer_reltol": 1e-10,
+  "scaled_score_tolerance": 0.0001,
+  "progress_seconds": 45,
+  "raw_sha256": {
+    "data/microdata/TAYA2021_Fert_MikroVeri.csv": "12bc3245c3eca806c2fb9da97f682d7bf1eda3d6c727fcfdaa5562054263908a",
+    "data/microdata/TAYA2021_Fertliste_MikroVeri.csv": "b5bbe536dfc3db0ea94bb3cca7e443002462b0a35a046d36e02e393b38766177",
+    "data/microdata/TAYA2021_Hane_MikroVeri.csv": "9e518dfa3846a04cbca45fdfeda7e58d64b76c6ac5354c7d3e9624c05a4fe949"
+  },
+  "runtime": {
+    "R": "4.6.0",
+    "survey": "4.5",
+    "MASS": "7.3.65",
+    "jsonlite": "2.0.0",
+    "digest": "0.6.39",
+    "lpSolve": "5.6.23",
+    "knitr": "1.51"
+  },
+  "original_base": "R/primary",
+  "reference_output": "output/primary",
+  "new_model_units": 4,
+  "reference_model": "H3_reason_by_sex",
+  "supplementary_Holm_family": 4,
+  "probability_display": "Five category point estimates; common pooled covariate distribution within each model sample; original analysis weights; no causal interpretation",
+  "output_budget_MiB": 50,
+  "published_secondary": "results/primary/secondary.csv"
+}

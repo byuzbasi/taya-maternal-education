@@ -1,0 +1,6 @@
+"model","sample","max_abs_household_interaction_in_SE","median_abs_household_interaction_in_SE","p90_abs_household_interaction_in_SE","max_share_of_uncentered_squared_contributions","survey_covariance_reproduced","diagnostic"
+"H3_reason_by_sex","primary",0.229867004040411,0.0299211877450814,0.103131204453552,0.053032388409322,TRUE,"Linearized contributions; no deletion refits or automatic exclusions"
+"H3_age15_29","age15_29",0.182406276713097,0.0250081510494824,0.0907754104914391,0.0333632060851059,TRUE,"Linearized contributions; no deletion refits or automatic exclusions"
+"H3_shared_education","shared",0.237456464950059,0.031624227606188,0.10960049958537,0.0566084406230429,TRUE,"Linearized contributions; no deletion refits or automatic exclusions"
+"H3_link_flags","links",0.233392071296215,0.0311891260767665,0.104665478684907,0.0546813660937196,TRUE,"Linearized contributions; no deletion refits or automatic exclusions"
+"H3_unweighted","primary",0.19235494077759,0.040126483703233,0.0988692652308959,0.0371359559274144,TRUE,"Linearized contributions; no deletion refits or automatic exclusions"

@@ -1,0 +1,9 @@
+"sample","reason","pairs","mothers","households","link_flags","unknown_birthyears"
+"primary","economic",188,135,135,10,3
+"primary","family",191,139,139,7,0
+"age15_29","economic",267,181,181,12,3
+"age15_29","family",262,185,185,8,2
+"shared","economic",173,124,124,9,3
+"shared","family",182,130,130,7,0
+"links","economic",178,127,127,0,3
+"links","family",184,134,134,0,0

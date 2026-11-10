@@ -1,0 +1,3 @@
+"model","sample","outcome","kind","term","log_OR","SE","OR","lower95","upper95","p","df","pairs","mothers","households","weighted"
+"threshold_gt2","primary","gt2","binary","reasonfamily",-0.175499274165488,0.321549234065261,0.839038006175985,0.445391171698439,1.58059885453773,0.585696963292666,249,379,274,274,TRUE
+"threshold_gt3","primary","gt3","binary","reasonfamily",-0.374339968518483,0.353819414605029,0.687743061090711,0.342597034132211,1.38060307286808,0.291081998328921,249,379,274,274,TRUE

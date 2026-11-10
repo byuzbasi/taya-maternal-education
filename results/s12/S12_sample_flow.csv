@@ -1,0 +1,9 @@
+"status","young_adults","denominator","percent"
+"all",8604,8604,100
+"coresident",5350,8604,62.1803812180381
+"unmatched99",2947,8604,34.2515109251511
+"unmatched_other",304,8604,3.53324035332404
+"other_roster",3,8604,0.0348675034867503
+"available",5136,5350,96
+"unavailable",214,5350,4
+"eligible",379,5136,7.37928348909657
